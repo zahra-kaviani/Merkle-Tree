@@ -1,0 +1,5 @@
+{
+    "leaf": "0x123456",
+    "pathIndices": [0, 1, 0, 1],
+    "siblings": ["0xabcdef", "0x987654", "0xfedcba", "0x456789"]
+  }
